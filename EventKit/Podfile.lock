@@ -1,0 +1,10 @@
+PODS:
+  - Kiwi (HEAD based on 2.1)
+
+DEPENDENCIES:
+  - Kiwi (HEAD)
+
+SPEC CHECKSUMS:
+  Kiwi: 054ef97d0e50c279b21113a0880a906fa153a7fd
+
+COCOAPODS: 0.20.1
